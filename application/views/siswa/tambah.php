@@ -28,7 +28,7 @@
 						<label for="jurusan">Jurusan</label>
 						<select class="form-control" id="jurusan" name="jurusan">
 							<option value="Rekayasa Perangkat Lunak">Rekayasa Perangkat Lunak</option>
-							<option value="Teknik Komputer dan Jaringan">Teknik Komputer dan Jaringan</option>
+							<option value="Teknik Komputer dan Jaringan">Teknik Komputer Jaringan</option>
 							<option value="Multimedia">Multimedia</option>
 						</select>
 					</div>
